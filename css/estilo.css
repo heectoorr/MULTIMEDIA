@@ -1,0 +1,18 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    padding: 20px;
+    background-color: #2c2b2b;
+}
+
+h1{
+    color: rgb(0, 0, 0);   
+}
+
+img{
+    width: 200px;
+}
+
+#nombre{
+    font-size: large;
+}
